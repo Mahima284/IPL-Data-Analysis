@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 \# IPL Data Analysis (2008-2024)
 
 
@@ -96,3 +97,6 @@ Four comprehensive charts included showing top batsmen, bowlers, team performanc
 
 Mahima - Data Analysis Project
 
+=======
+# IPL-Data-Analysis
+>>>>>>> 8d1a5e16a75bddf42bb48967f5bece2ff49b64ec
